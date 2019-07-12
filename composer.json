@@ -1,0 +1,11 @@
+{
+    "name": "zira/api",
+    "description": "Zira package to call api to Zira core",
+    "authors": [
+        {
+            "name": "Tinh Nguyen Van",
+            "email": "quachtinh761@gmail.com"
+        }
+    ],
+    "require": {}
+}
